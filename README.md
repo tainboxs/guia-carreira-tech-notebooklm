@@ -17,12 +17,12 @@ Este caderno temático no NotebookLM foi criado com o objetivo de centralizar, a
 
 ## 📚 Curadoria de Fontes
 
-Para garantir respostas embasadas e de alta qualidade no NotebookLM, foram selecionadas e carregadas **4 fontes abertas** de relevância no setor:
+Para garantir respostas embasadas e de alta qualidade no NotebookLM, foram selecionadas e carregadas as seguintes fontes abertas de relevância no setor:
 
-1. **Guia de Visibilidade e Algoritmos do LinkedIn:** Documentação sobre boas práticas de SEO para perfil, estruturação de headline e seções de destaque.
-2. **Manual da Metodologia STAR em Entrevistas:** Guias de preparação comportamental focados na estrutura *Situation, Task, Action, Result*.
-3. **Guia de Construção de Currículos para Tech (Foco em ATS):** Orientações sobre parametrização de currículos para leitura automatizada e alinhamento de palavras-chave.
-4. **Relatório de Tendências de Carreira e Skills em Tecnologia:** Material analítico sobre as *hard* e *soft skills* mais valorizadas por multinacionais.
+1. **Guia Oficial de Otimização do LinkedIn:** [Otimizar seu perfil LinkedIn para atrair recrutadores em 2026](https://www.jobalign.app/pt/otimizar-perfil-linkedin.html)
+2. **Manual da Metodologia STAR para Entrevistas:** [Metodologia STAR: como usar em entrevistas de emprego](https://www.gupy.io/blog-do-emprego/metodologia-star)
+3. **Guia de Construção de Currículos para Tech (Foco em ATS):** [Currículo para profissional de tecnologia em 2026: estrutura ATS + portfólio que convence RH](https://blog.criarcv.com.br/curriculo-tech-passar-ats-2026/)
+4. **Relatório de Tendências de Carreira em Tecnologia:** [Mercado de tecnologia em constante evolução: tendências e oportunidades de carreira](https://www.insper.edu.br/pt/conteudos/tecnologia/mercado-de-tecnologia)
 
 ---
 
